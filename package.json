@@ -6,7 +6,7 @@
   "author": "segmentio <friends@segment.io>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/segmentio/modella-defaults.git"
+    "url": "git://github.com/modella/defaults.git"
   },
   "dependencies": {
     "clone-component": "0.1.0"
